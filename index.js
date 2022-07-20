@@ -3,7 +3,7 @@ var c = canvas.getContext('2d');
 
 d = {};
 var i = 0;
-var p = 10;
+var p = 100;
 var bgreset = 0;
 
 class dots {
